@@ -12,6 +12,17 @@ index.php ya da main.php dosyanıza bunları ekleyin.
 require "./vendor/autoload.php"; // autoload dosyasını require ettiyseniz bunu eklemenize gerek yoktur.
 
 use Multilang\Multilang;
+
+$lang = new Multilang("lang");
+/*
+    Ayarlarını değiştirmek istiyorsanız.
+    
+    $lang = new Multilang("lang",[
+        'key' => 'lang',
+        'default' => 'tr',
+        'debug' => false
+    ]);
+*/
 ```
 • İlk olarak dil klasörünüzü oluşturun ör: ismi lang olabilir.
 
