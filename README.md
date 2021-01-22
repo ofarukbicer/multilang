@@ -3,7 +3,7 @@
 ## 📥 Kurulum
 
 1. Composer bilgisayarınızda kurulu olması lazımdır.
-2. Terminal'e `composer require omerfarukbicer0446/multilang` yazın.
+2. Terminal'e `composer require omerfarukbicer0446/lang` yazın.
 3. Kurulum bitti :) 
 
 ## 📒 Kullanım
