@@ -4,6 +4,7 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["lang","multi lang"],
+    "version": "1.1",
     "homepage": "http://github.com/omerfarukbicer0446/Multilang",
     "authors": [
         {
