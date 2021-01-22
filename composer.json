@@ -1,0 +1,21 @@
+{
+    "name": "omerfarukbicer0446/lang",
+    "description": "Multi dil özelliği sağlanyan araç",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["lang","multi lang"],
+    "minimum-stability": "dev",
+    "homepage": "http://github.com/omerfarukbicer0446/Multilang",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Multilang\\": "src/"
+        }
+    },
+    "require": {}
+}
